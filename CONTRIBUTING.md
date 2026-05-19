@@ -1,32 +1,32 @@
 # Contributing
 
-Thank you for contributing to repositories in yodo-test-org.
+`yodo-test-org` 配下のリポジトリへの contribution では、対象リポジトリの README と既存の issue / pull request を先に確認してください。
 
-## Before You Start
+## 基本方針
 
-- Read the target repository README first.
-- Check existing issues and pull requests to avoid duplicate work.
-- Keep changes focused and easy to review.
-- Prefer small pull requests with clear intent.
+- 変更は小さく、目的が分かる単位にする。
+- unrelated な変更を同じ pull request に混ぜない。
+- 仕様変更、挙動変更、UI 変更がある場合は説明を添える。
+- テストや確認手順を明記する。
 
-## Pull Requests
+## Pull Request
 
-A good pull request should include:
+pull request には、できるだけ次の情報を含めてください。
 
-- A concise description of the change
-- The reason the change is needed
-- Tests or verification steps, when applicable
-- Screenshots or logs for user-visible changes
+- 変更内容の要約
+- 変更理由
+- 確認したこと
+- レビュー時に注意してほしい点
 
-Repository-specific contribution rules override this default guide.
+## Issue
 
-## Issues
+issue を作成する場合は、できるだけ次の情報を含めてください。
 
-When opening an issue, include:
+- 起きたこと
+- 期待したこと
+- 再現手順
+- 環境情報
 
-- What happened
-- What you expected to happen
-- Steps to reproduce
-- Environment details, if relevant
+## セキュリティ報告
 
-Do not use public issues for security reports. See [SECURITY.md](SECURITY.md).
+セキュリティ上の問題は public issue で報告しないでください。`SECURITY.md` を確認してください。
