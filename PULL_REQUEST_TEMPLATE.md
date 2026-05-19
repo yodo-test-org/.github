@@ -1,11 +1,11 @@
-## Summary
+## 概要
 
 
-## Verification
+## 確認したこと
 
-- [ ] I ran the relevant tests or checks
-- [ ] I updated documentation if needed
+- [ ] 関連するテストまたは確認を実施した
+- [ ] 必要なドキュメントを更新した
 
-## Notes for Reviewers
+## レビュー時に見てほしい点
 
 
