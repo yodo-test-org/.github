@@ -23,7 +23,7 @@ Repositories in this organization should include:
 
 ## Contributing
 
-Before opening an issue or pull request, check the target repository README. Repository-specific instructions override the organization defaults in this  repository.
+Before opening an issue or pull request, check the target repository README. Repository-specific instructions override the organization defaults in this organization-wide repository.
 
 ## Security
 
