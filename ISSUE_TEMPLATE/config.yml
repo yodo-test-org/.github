@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Security report
+  - name: セキュリティ報告
     url: https://github.com/yodo-test-org/.github/blob/main/SECURITY.md
-    about: Please do not open public issues for security reports.
+    about: セキュリティ上の問題は public issue で報告しないでください。
