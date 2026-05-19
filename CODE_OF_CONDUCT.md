@@ -1,25 +1,23 @@
 # Code of Conduct
 
-## Our Standard
+## 基本方針
 
-We expect participation in yodo-test-org projects to be respectful, constructive, and focused on the work.
+`yodo-test-org` では、技術的な議論を建設的に進めることを重視します。
 
-Examples of expected behavior include:
+## 期待する行動
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experience levels
-- Giving and receiving technical feedback constructively
-- Keeping discussions relevant to the project
+- 相手の経験や背景を尊重する。
+- 技術的な主張は、根拠や再現可能な情報とともに示す。
+- 指摘は具体的に行い、人格ではなく内容に向ける。
+- 議論をプロジェクトの目的に沿わせる。
 
-Examples of unacceptable behavior include:
+## 許容しない行動
 
-- Harassment, threats, or personal attacks
-- Discriminatory language or conduct
-- Publishing private information without permission
-- Repeatedly derailing project discussions
+- ハラスメント、脅迫、個人攻撃
+- 差別的な発言や行動
+- 許可のない個人情報の公開
+- プロジェクトと無関係な議論の継続的な持ち込み
 
-## Enforcement
+## 対応
 
-Project maintainers may remove comments, close issues, restrict participation, or take other reasonable action when behavior violates this code of conduct.
-
-If you need to report a concern, contact a repository maintainer privately when possible.
+メンテナは、必要に応じてコメントの削除、issue の close、参加制限などの対応を行う場合があります。
