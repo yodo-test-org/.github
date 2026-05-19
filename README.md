@@ -30,3 +30,9 @@
 `SECURITY.md` の継承や上書き挙動は、次の学習用リポジトリで確認できます。
 
 https://github.com/yodo-test-org/org-security-md-lab
+
+## 運用資料
+
+企業向けの `.github` リポジトリ運用方針は、次の資料にまとめています。
+
+https://github.com/yodo-test-org/.github/blob/main/docs/github-repository-operations.md
