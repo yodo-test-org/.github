@@ -1,22 +1,34 @@
 # Security Policy
 
-## Reporting a Vulnerability
+## 脆弱性の報告
 
-If you believe you have found a security vulnerability in a repository under yodo-test-org, please report it privately.
+`yodo-test-org` 配下のリポジトリでセキュリティ上の問題を見つけた場合は、public issue では報告しないでください。
 
-Do not open a public issue for security reports.
+対象リポジトリに固有の `SECURITY.md` がある場合は、その手順を優先してください。固有の手順がない場合は、この Organization 共通の security policy を参照してください。
 
-Please include:
+## 報告に含めてほしい情報
 
-- Affected repository and component
-- Steps to reproduce
-- Impact and severity estimate
-- Any proof-of-concept details, logs, or screenshots that help verification
+- 対象リポジトリ名
+- 影響を受ける機能やコンポーネント
+- 再現手順
+- 想定される影響
+- 重要度の見立て
+- 検証に役立つログ、スクリーンショット、proof of concept
 
-We will review reports as soon as practical and follow up with next steps.
+## 対応方針
 
-## Supported Versions
+報告内容を確認し、必要に応じて追加情報を依頼します。
 
-Security updates are provided for actively maintained repositories in this organization. Repository-specific support policies may override this default policy.
+修正や公開方法は、影響範囲、再現性、悪用可能性を確認したうえで判断します。
 
-Archived, experimental, or proof-of-concept repositories may not receive security updates unless explicitly stated in the target repository.
+## サポート対象
+
+積極的にメンテナンスされているリポジトリを主な対象とします。
+
+archive されたリポジトリ、実験用リポジトリ、proof of concept リポジトリは、個別に明記がない限り、セキュリティ修正の対象外になる場合があります。
+
+## SECURITY.md の検証
+
+Organization 共通の `SECURITY.md` がどのように継承されるかは、次の学習用リポジトリで確認できます。
+
+https://github.com/yodo-test-org/org-security-md-lab
