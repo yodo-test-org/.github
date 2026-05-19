@@ -1,17 +1,17 @@
 # Support
 
-Support expectations vary by repository.
+サポート方針はリポジトリごとに異なります。
 
-## Getting Help
+## 質問する前に
 
-Before asking for help:
+- 対象リポジトリの README を確認する。
+- 既存の issue / discussion を検索する。
+- リポジトリが archive されていないか確認する。
 
-- Read the repository README and documentation
-- Search existing issues and discussions
-- Check whether the repository is archived or experimental
+## 質問先
 
-For general questions, use the target repository issues or discussions if they are enabled.
+一般的な質問は、対象リポジトリの issue または discussion が有効な場合に利用してください。
 
-## Security Issues
+## セキュリティ上の問題
 
-Do not open a public issue for security reports. Follow [SECURITY.md](SECURITY.md).
+セキュリティ上の問題は public issue で報告しないでください。`SECURITY.md` を確認してください。
