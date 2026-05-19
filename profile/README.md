@@ -31,6 +31,12 @@ https://github.com/yodo-test-org/.github
 
 https://github.com/yodo-test-org/org-security-md-lab
 
+## `.github` リポジトリの運用
+
+企業向けの `.github` リポジトリ運用方針は、次の資料にまとめています。
+
+https://github.com/yodo-test-org/.github/blob/main/docs/github-repository-operations.md
+
 ## セキュリティ報告
 
 セキュリティ上の問題は public issue では報告しないでください。報告手順は [SECURITY.md](https://github.com/yodo-test-org/.github/blob/main/SECURITY.md) を確認してください。
