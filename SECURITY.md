@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you believe you have found a security vulnerability in a repository under this organization, please report it privately.
+If you believe you have found a security vulnerability in a repository under yodo-test-org, please report it privately.
 
 Do not open a public issue for security reports.
 
@@ -18,3 +18,5 @@ We will review reports as soon as practical and follow up with next steps.
 ## Supported Versions
 
 Security updates are provided for actively maintained repositories in this organization. Repository-specific support policies may override this default policy.
+
+Archived, experimental, or proof-of-concept repositories may not receive security updates unless explicitly stated in the target repository.
